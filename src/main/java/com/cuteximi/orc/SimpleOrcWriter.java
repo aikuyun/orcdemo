@@ -10,7 +10,7 @@ import java.io.IOException;
 
 /**
  * @program: orcdemo
- * @description: 简单例子：本文数据写入 ORC 文件
+ * @description: 简单例子：本文数据写入 ORC 文件（二进制文件，不能直接读取）
  * @author: TSL
  * @create: 2020-06-01 19:15
  **/
